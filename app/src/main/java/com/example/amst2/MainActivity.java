@@ -1,5 +1,4 @@
 package com.example.amst2;
-/*Mylene Cambios prueba*/
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
