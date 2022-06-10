@@ -7,12 +7,29 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:map="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:background="#0000ff">
+
+        <TextView
+            android:id="@+id/encabezado"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mapa de Google Maps V0"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/cardview_light_background"
+            android:textStyle="bold">
+
+        </TextView>
+    </LinearLayout>
+
+    <fragment
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="682dp"
         tools:context=".MapsGoogleMapsActivity" />
+
 </LinearLayout>
