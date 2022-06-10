@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/video_ytbe"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_video" />
+        <item
+            android:id="@+id/calendar_view"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_calendar" />
+        <item
+            android:id="@+id/map_googlemaps"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/grafico_lineal"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_grafico"/>
+
+    </group>
+</menu>
