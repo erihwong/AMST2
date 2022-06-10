@@ -6,18 +6,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".formulario_registro">
+
     <LinearLayout
-        android:orientation="vertical" android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="40dp">
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtNombre"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Nombres:"/>
+                android:text="Nombres:" />
 
             <EditText
                 android:id="@+id/editNombre"
@@ -27,15 +33,17 @@
                 android:inputType="textPersonName"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtApellido"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Apellidos:"/>
+                android:text="Apellidos:" />
 
             <EditText
                 android:id="@+id/editApellido"
@@ -45,15 +53,17 @@
                 android:inputType="textPersonName"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtCedula"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Cedula:"/>
+                android:text="Cedula:" />
 
             <EditText
                 android:id="@+id/editCedula"
@@ -63,15 +73,17 @@
                 android:inputType="number"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtEdad"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Edad:"/>
+                android:text="Edad:" />
 
             <EditText
                 android:id="@+id/editEdad"
@@ -81,15 +93,17 @@
                 android:inputType="number"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtAltura"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Altura:"/>
+                android:text="Altura:" />
 
             <EditText
                 android:id="@+id/editAltura"
@@ -99,15 +113,17 @@
                 android:inputType="numberDecimal"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtPeso"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Peso:"/>
+                android:text="Peso:" />
 
             <EditText
                 android:id="@+id/editPeso"
@@ -117,15 +133,17 @@
                 android:inputType="numberDecimal"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtEmail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email:"/>
+                android:text="Email:" />
 
             <EditText
                 android:id="@+id/editEmail"
@@ -135,15 +153,17 @@
                 android:inputType="textEmailAddress"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtUsuario"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Usuario:"/>
+                android:text="Usuario:" />
 
             <EditText
                 android:id="@+id/editUsuario"
@@ -152,15 +172,17 @@
                 android:ems="10"
                 android:text="" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <TextView
                 android:id="@+id/txtClave"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Clave:"/>
+                android:text="Clave:" />
 
             <EditText
                 android:id="@+id/editClave"
