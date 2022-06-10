@@ -12,4 +12,5 @@
     <string name="menu_calendar">Calendar view</string>
     <string name="menu_map">Google maps</string>
     <string name="menu_grafico">Grafico lineal Est</string>
+    <string name="title_activity_maps_google_maps">MapsGoogleMapsActivity</string>
 </resources>
