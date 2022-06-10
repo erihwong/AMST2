@@ -18,6 +18,9 @@
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
+            android:name=".CalendarActivity"
+            android:exported="false"/>
+        <activity
             android:name=".formulario_registro"
             android:exported="false" />
         <activity

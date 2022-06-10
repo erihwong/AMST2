@@ -3,6 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
+=======
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.156" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.156" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.156" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2265" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/activity_menu.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/activity_menu_lateral.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/app_bar_menu_lateral.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/content_menu_lateral.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_gallery.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_home.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_slideshow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/nav_header_menu_lateral.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/menu/menu_simple.xml" value="0.4" />
+        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.151" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/layout/calendar_layout.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/menu/calendar_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/menu/calendar_menu.xml" value="0.253125" />
+        <entry key="..\:/Users/erick/Downloads/Semestre8/AplicMovYServiciosTelematicos/Laboratorio/Lab1/AMST2/app/src/main/res/menu/menu_simple.xml" value="0.25416666666666665" />
+>>>>>>> eb1a53d9c2c781f83f4db4d13d3b8dc991bfb4b6
         <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_formulario_registro.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AMST2V1/AMST2/app/src/main/res/layout/activity_formulario_registro.xml" value="0.22" />
@@ -13,7 +37,11 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> eb1a53d9c2c781f83f4db4d13d3b8dc991bfb4b6
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
