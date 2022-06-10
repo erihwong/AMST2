@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.amst2">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -11,6 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AMST2"
         tools:targetApi="31">
+        <activity
+            android:name=".ActividadMapaGoogle"
+            android:exported="false" />
+        <activity
+            android:name=".VideoYoutube"
+            android:exported="false" />
         <activity
             android:name=".MenuActivity"
             android:exported="false" />

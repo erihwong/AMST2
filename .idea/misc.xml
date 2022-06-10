@@ -3,23 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.156" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.156" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.156" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2265" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/activity_menu.xml" value="0.14114583333333333" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/activity_menu_lateral.xml" value="0.1956521739130435" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/app_bar_menu_lateral.xml" value="0.1956521739130435" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/content_menu_lateral.xml" value="0.1956521739130435" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_gallery.xml" value="0.14635416666666667" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_home.xml" value="0.14635416666666667" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/fragment_slideshow.xml" value="0.14635416666666667" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/layout/nav_header_menu_lateral.xml" value="0.1956521739130435" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/menu/menu_simple.xml" value="0.4" />
-        <entry key="..\:/Users/SANCHEZ/Documents/lab1/AMST2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.151" />
+        <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_actividad_mapa_google.xml" value="0.1852355072463768" />
         <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_formulario_registro.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/layout/activity_video_youtube.xml" value="0.25" />
+        <entry key="..\:/Users/mnnun/Documents/GitHub/AMST2/app/src/main/res/menu/menu_simple.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -1,6 +1,7 @@
 package com.example.amst2;
 
 import android.content.ClipData;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -24,6 +25,8 @@ public class MenuActivity extends AppCompatActivity {
 
         if(id == R.id.video_youtube){
             Toast.makeText(this, "video",Toast.LENGTH_SHORT).show();
+            Intent siguiente = new Intent(this, VideoYoutube.class);
+            startActivity(siguiente);
 
         }else if(id==R.id.calendario){
             Toast.makeText(this, "video",Toast.LENGTH_SHORT).show();
